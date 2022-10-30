@@ -1,0 +1,82 @@
+ [
+  {
+    "id": 1,
+    "nombre": "AMD RX 6600 6GB ASUS",
+    "precioVenta": 92500,
+    "cantidad": 1,
+    "Tipo": "PLACAS DE VIDEO",
+    "imagen": "DUAL-RX6600-8G-1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "MOTHERBOARD GIGABYTE H510M H",
+    "precioVenta": 24300,
+    "cantidad": 1,
+    "Tipo": "MOTHERBOARDS",
+    "imagen": "motherboard-gigabyte-h510m-h-ddr4-intel-11gen-socket-1200.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "MEMORIA RAM KINGSTON FURY DDR4 16GB 3200MHZ",
+    "precioVenta": 17399,
+    "cantidad": 1,
+    "Tipo": "MEMORIAS RAM",
+    "imagen": "23853.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "GABINETE GAMER RAIDMAX X616TBF",
+    "precioVenta": 20134,
+    "cantidad": 1,
+    "Tipo": "GABINETES",
+    "imagen": "descarga.jpeg"
+  },
+  {
+    "id": 5,
+    "nombre": "MEMORIA RAM CORSAIR VENGANCE 2X8GB 3600MHZ",
+    "precioVenta": 25381,
+    "cantidad": 1,
+    "Tipo": "MEMORIAS RAM",
+    "imagen": "762477-MLA47963369493_102021-F.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "MEMORIA RAM PNY XLR8 2X8GB 3200MHZ",
+    "precioVenta": 21300,
+    "cantidad": 1,
+    "Tipo": "MEMORIAS RAM",
+    "imagen": "0000000000004712847099531_3.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "DISCO DURO RIGIDO 1TB",
+    "precioVenta": 6200,
+    "cantidad": 1,
+    "Tipo": "DISCOS DUROS",
+    "imagen": "hd-hdd-2tb-seagate-barracuda-sata-iii-35-5900rpm-0.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "GABINETE COOLER MASTER MASTERBOX MICRO ATX",
+    "precioVenta": 17999,
+    "cantidad": 1,
+    "Tipo": "GABINETES",
+    "imagen": "imagen.jpeg"
+  },
+  {
+    "id": 9,
+    "nombre": "GEFORCE RTX 2060 12GB EVGA",
+    "precioVenta": 135000,
+    "cantidad": 1,
+    "Tipo": "PLACAS DE VIDEO",
+    "imagen": "video-geforce-rtx-2060-12gb-evga-xc-gaming-dual-fan-0.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "MICROPROCESADOR INTEL CORE I5 10400F 10GEN 6NUCLEOS",
+    "precioVenta": 43500,
+    "cantidad": 1,
+    "Tipo": "MICROPROCESADORES",
+    "imagen": "D_NQ_NP_700531-MLA42285978541_062020-O.webp"
+  }
+]
